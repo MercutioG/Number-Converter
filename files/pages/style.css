@@ -1,0 +1,24 @@
+body{
+    background-color: #121212;
+}
+
+h1{
+    text-align: center;
+    color: gainsboro;
+
+    margin-left: 5rem;
+    margin-right: 5rem;
+
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: gainsboro;
+}
+
+p{
+    text-align: center;
+    color: gainsboro;
+    font-size: large;
+
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
