@@ -1,7 +1,9 @@
+/* This is ONLY for the background color */
 body{
     background-color: #121212;
 }
 
+/* This is the style for the text and button */
 h1{
     text-align: center;
     color: gainsboro;
